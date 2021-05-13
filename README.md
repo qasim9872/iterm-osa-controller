@@ -4,6 +4,8 @@ A high level API for controlling ITerm terminals in JavaScript. This internally 
 
 > Note: Windows is not supported
 
+![example](./assets/example.gif)
+
 ## Prerequisites
 
 Please make sure you have the following installed.
