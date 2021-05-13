@@ -2,9 +2,9 @@
 
 A high level API for controlling ITerm terminals in JavaScript. This internally makes use of OSA Scripts.
 
-> Note: Windows is not supported
-
 ![example](./assets/example.gif)
+
+> Note: Windows is not supported
 
 ## Prerequisites
 
