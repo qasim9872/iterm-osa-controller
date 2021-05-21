@@ -1,3 +1,4 @@
-export default function hello() {
-  return 'Hello world';
-}
+import iTermController from './i-term';
+
+export iTermController;
+export default iTermController;
